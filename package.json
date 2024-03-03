@@ -1,11 +1,11 @@
 {
-  "name": "prodjekt_Juniors_team_four",
+  "name": "html-css_bcon-70_prodjekt_Juniors_team_four",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/prodjekt_Juniors_team_four/",
+    "build": "vite build --base=/html-css_bcon-70_prodjekt_Juniors_team_four/",
     "preview": "vite preview"
   },
   "devDependencies": {
